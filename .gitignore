@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# IntelliJ / VSCode
+.idea/
+.vscode/
+
+# Backend Build Files
+backend/target/
+backend/.mvn/
+
+# Backend Uploads
+backend/uploads/
+
+# Frontend Build Files
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+
+# Docker
+docker-data/
+
+# Temporary Files
+*.tmp
+*.swp
+
+# OS Files
+Thumbs.db
